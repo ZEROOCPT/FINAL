@@ -1,0 +1,4 @@
+0 Salju
+1 Hujan
+2 Mendung
+3 Cerah
